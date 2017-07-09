@@ -1,0 +1,3338 @@
+[
+    {
+        "name": "Bedenica",
+        "type": "MUNICIPALITY",
+        "county": "Zagreba\u010dka",
+        "countyId": 1
+    },
+    {
+        "name": "Bistra",
+        "type": "MUNICIPALITY",
+        "county": "Zagreba\u010dka",
+        "countyId": 1
+    },
+    {
+        "name": "Brckovljani",
+        "type": "MUNICIPALITY",
+        "county": "Zagreba\u010dka",
+        "countyId": 1
+    },
+    {
+        "name": "Brdovec",
+        "type": "MUNICIPALITY",
+        "county": "Zagreba\u010dka",
+        "countyId": 1
+    },
+    {
+        "name": "Dubrava",
+        "type": "MUNICIPALITY",
+        "county": "Zagreba\u010dka",
+        "countyId": 1
+    },
+    {
+        "name": "Dubravica",
+        "type": "MUNICIPALITY",
+        "county": "Zagreba\u010dka",
+        "countyId": 1
+    },
+    {
+        "name": "Dugo Selo",
+        "type": "CITY_OR_TOWN",
+        "county": "Zagreba\u010dka",
+        "countyId": 1
+    },
+    {
+        "name": "Farka\u0161evac",
+        "type": "MUNICIPALITY",
+        "county": "Zagreba\u010dka",
+        "countyId": 1
+    },
+    {
+        "name": "Gradec",
+        "type": "MUNICIPALITY",
+        "county": "Zagreba\u010dka",
+        "countyId": 1
+    },
+    {
+        "name": "Ivani\u0107-Grad",
+        "type": "CITY_OR_TOWN",
+        "county": "Zagreba\u010dka",
+        "countyId": 1
+    },
+    {
+        "name": "Jakovlje",
+        "type": "MUNICIPALITY",
+        "county": "Zagreba\u010dka",
+        "countyId": 1
+    },
+    {
+        "name": "Jastrebarsko",
+        "type": "CITY_OR_TOWN",
+        "county": "Zagreba\u010dka",
+        "countyId": 1
+    },
+    {
+        "name": "Klin\u010da Sela",
+        "type": "MUNICIPALITY",
+        "county": "Zagreba\u010dka",
+        "countyId": 1
+    },
+    {
+        "name": "Klo\u0161tar Ivani\u0107",
+        "type": "MUNICIPALITY",
+        "county": "Zagreba\u010dka",
+        "countyId": 1
+    },
+    {
+        "name": "Kra\u0161i\u0107",
+        "type": "MUNICIPALITY",
+        "county": "Zagreba\u010dka",
+        "countyId": 1
+    },
+    {
+        "name": "Kravarsko",
+        "type": "MUNICIPALITY",
+        "county": "Zagreba\u010dka",
+        "countyId": 1
+    },
+    {
+        "name": "Kri\u017e",
+        "type": "MUNICIPALITY",
+        "county": "Zagreba\u010dka",
+        "countyId": 1
+    },
+    {
+        "name": "Luka",
+        "type": "MUNICIPALITY",
+        "county": "Zagreba\u010dka",
+        "countyId": 1
+    },
+    {
+        "name": "Marija Gorica",
+        "type": "MUNICIPALITY",
+        "county": "Zagreba\u010dka",
+        "countyId": 1
+    },
+    {
+        "name": "Orle",
+        "type": "MUNICIPALITY",
+        "county": "Zagreba\u010dka",
+        "countyId": 1
+    },
+    {
+        "name": "Pisarovina",
+        "type": "MUNICIPALITY",
+        "county": "Zagreba\u010dka",
+        "countyId": 1
+    },
+    {
+        "name": "Pokupsko",
+        "type": "MUNICIPALITY",
+        "county": "Zagreba\u010dka",
+        "countyId": 1
+    },
+    {
+        "name": "Preseka",
+        "type": "MUNICIPALITY",
+        "county": "Zagreba\u010dka",
+        "countyId": 1
+    },
+    {
+        "name": "Pu\u0161\u0107a",
+        "type": "MUNICIPALITY",
+        "county": "Zagreba\u010dka",
+        "countyId": 1
+    },
+    {
+        "name": "Rakovec",
+        "type": "MUNICIPALITY",
+        "county": "Zagreba\u010dka",
+        "countyId": 1
+    },
+    {
+        "name": "Rugvica",
+        "type": "MUNICIPALITY",
+        "county": "Zagreba\u010dka",
+        "countyId": 1
+    },
+    {
+        "name": "Samobor",
+        "type": "CITY_OR_TOWN",
+        "county": "Zagreba\u010dka",
+        "countyId": 1
+    },
+    {
+        "name": "Stupnik",
+        "type": "MUNICIPALITY",
+        "county": "Zagreba\u010dka",
+        "countyId": 1
+    },
+    {
+        "name": "Sveta Nedelja",
+        "type": "CITY_OR_TOWN",
+        "county": "Zagreba\u010dka",
+        "countyId": 1
+    },
+    {
+        "name": "Sveti Ivan Zelina",
+        "type": "CITY_OR_TOWN",
+        "county": "Zagreba\u010dka",
+        "countyId": 1
+    },
+    {
+        "name": "Velika Gorica",
+        "type": "CITY_OR_TOWN",
+        "county": "Zagreba\u010dka",
+        "countyId": 1
+    },
+    {
+        "name": "Vrbovec",
+        "type": "CITY_OR_TOWN",
+        "county": "Zagreba\u010dka",
+        "countyId": 1
+    },
+    {
+        "name": "Zapre\u0161i\u0107",
+        "type": "CITY_OR_TOWN",
+        "county": "Zagreba\u010dka",
+        "countyId": 1
+    },
+    {
+        "name": "\u017dumberak",
+        "type": "MUNICIPALITY",
+        "county": "Zagreba\u010dka",
+        "countyId": 1
+    },
+    {
+        "name": "Bedekov\u010dina",
+        "type": "MUNICIPALITY",
+        "county": "Krapinsko-zagorska",
+        "countyId": 2
+    },
+    {
+        "name": "Budin\u0161\u010dina",
+        "type": "MUNICIPALITY",
+        "county": "Krapinsko-zagorska",
+        "countyId": 2
+    },
+    {
+        "name": "Desini\u0107",
+        "type": "MUNICIPALITY",
+        "county": "Krapinsko-zagorska",
+        "countyId": 2
+    },
+    {
+        "name": "Donja Stubica",
+        "type": "CITY_OR_TOWN",
+        "county": "Krapinsko-zagorska",
+        "countyId": 2
+    },
+    {
+        "name": "\u0110urmanec",
+        "type": "MUNICIPALITY",
+        "county": "Krapinsko-zagorska",
+        "countyId": 2
+    },
+    {
+        "name": "Gornja Stubica",
+        "type": "MUNICIPALITY",
+        "county": "Krapinsko-zagorska",
+        "countyId": 2
+    },
+    {
+        "name": "Hra\u0161\u0107ina",
+        "type": "MUNICIPALITY",
+        "county": "Krapinsko-zagorska",
+        "countyId": 2
+    },
+    {
+        "name": "Hum na Sutli",
+        "type": "MUNICIPALITY",
+        "county": "Krapinsko-zagorska",
+        "countyId": 2
+    },
+    {
+        "name": "Jesenje",
+        "type": "MUNICIPALITY",
+        "county": "Krapinsko-zagorska",
+        "countyId": 2
+    },
+    {
+        "name": "Klanjec",
+        "type": "CITY_OR_TOWN",
+        "county": "Krapinsko-zagorska",
+        "countyId": 2
+    },
+    {
+        "name": "Konj\u0161\u010dina",
+        "type": "MUNICIPALITY",
+        "county": "Krapinsko-zagorska",
+        "countyId": 2
+    },
+    {
+        "name": "Kraljevec na Sutli",
+        "type": "MUNICIPALITY",
+        "county": "Krapinsko-zagorska",
+        "countyId": 2
+    },
+    {
+        "name": "Krapina",
+        "type": "CITY_OR_TOWN",
+        "county": "Krapinsko-zagorska",
+        "countyId": 2
+    },
+    {
+        "name": "Krapinske Toplice",
+        "type": "MUNICIPALITY",
+        "county": "Krapinsko-zagorska",
+        "countyId": 2
+    },
+    {
+        "name": "Kumrovec",
+        "type": "MUNICIPALITY",
+        "county": "Krapinsko-zagorska",
+        "countyId": 2
+    },
+    {
+        "name": "Lobor",
+        "type": "MUNICIPALITY",
+        "county": "Krapinsko-zagorska",
+        "countyId": 2
+    },
+    {
+        "name": "Ma\u010de",
+        "type": "MUNICIPALITY",
+        "county": "Krapinsko-zagorska",
+        "countyId": 2
+    },
+    {
+        "name": "Marija Bistrica",
+        "type": "MUNICIPALITY",
+        "county": "Krapinsko-zagorska",
+        "countyId": 2
+    },
+    {
+        "name": "Mihovljan",
+        "type": "MUNICIPALITY",
+        "county": "Krapinsko-zagorska",
+        "countyId": 2
+    },
+    {
+        "name": "Novi Golubovec",
+        "type": "MUNICIPALITY",
+        "county": "Krapinsko-zagorska",
+        "countyId": 2
+    },
+    {
+        "name": "Oroslavje",
+        "type": "CITY_OR_TOWN",
+        "county": "Krapinsko-zagorska",
+        "countyId": 2
+    },
+    {
+        "name": "Petrovsko",
+        "type": "MUNICIPALITY",
+        "county": "Krapinsko-zagorska",
+        "countyId": 2
+    },
+    {
+        "name": "Pregrada",
+        "type": "CITY_OR_TOWN",
+        "county": "Krapinsko-zagorska",
+        "countyId": 2
+    },
+    {
+        "name": "Radoboj",
+        "type": "MUNICIPALITY",
+        "county": "Krapinsko-zagorska",
+        "countyId": 2
+    },
+    {
+        "name": "Stubi\u010dke Toplice",
+        "type": "MUNICIPALITY",
+        "county": "Krapinsko-zagorska",
+        "countyId": 2
+    },
+    {
+        "name": "Sveti Kri\u017e Za\u010dretje",
+        "type": "MUNICIPALITY",
+        "county": "Krapinsko-zagorska",
+        "countyId": 2
+    },
+    {
+        "name": "Tuhelj",
+        "type": "MUNICIPALITY",
+        "county": "Krapinsko-zagorska",
+        "countyId": 2
+    },
+    {
+        "name": "Veliko Trgovi\u0161\u0107e",
+        "type": "MUNICIPALITY",
+        "county": "Krapinsko-zagorska",
+        "countyId": 2
+    },
+    {
+        "name": "Zabok",
+        "type": "CITY_OR_TOWN",
+        "county": "Krapinsko-zagorska",
+        "countyId": 2
+    },
+    {
+        "name": "Zagorska Sela",
+        "type": "MUNICIPALITY",
+        "county": "Krapinsko-zagorska",
+        "countyId": 2
+    },
+    {
+        "name": "Zlatar",
+        "type": "CITY_OR_TOWN",
+        "county": "Krapinsko-zagorska",
+        "countyId": 2
+    },
+    {
+        "name": "Zlatar Bistrica",
+        "type": "MUNICIPALITY",
+        "county": "Krapinsko-zagorska",
+        "countyId": 2
+    },
+    {
+        "name": "Donji Kukuruzari",
+        "type": "MUNICIPALITY",
+        "county": "Sisa\u010dko-moslava\u010dka",
+        "countyId": 3
+    },
+    {
+        "name": "Dvor",
+        "type": "MUNICIPALITY",
+        "county": "Sisa\u010dko-moslava\u010dka",
+        "countyId": 3
+    },
+    {
+        "name": "Glina",
+        "type": "CITY_OR_TOWN",
+        "county": "Sisa\u010dko-moslava\u010dka",
+        "countyId": 3
+    },
+    {
+        "name": "Gvozd",
+        "type": "MUNICIPALITY",
+        "county": "Sisa\u010dko-moslava\u010dka",
+        "countyId": 3
+    },
+    {
+        "name": "Hrvatska Dubica",
+        "type": "MUNICIPALITY",
+        "county": "Sisa\u010dko-moslava\u010dka",
+        "countyId": 3
+    },
+    {
+        "name": "Hrvatska Kostajnica",
+        "type": "CITY_OR_TOWN",
+        "county": "Sisa\u010dko-moslava\u010dka",
+        "countyId": 3
+    },
+    {
+        "name": "Jasenovac",
+        "type": "MUNICIPALITY",
+        "county": "Sisa\u010dko-moslava\u010dka",
+        "countyId": 3
+    },
+    {
+        "name": "Kutina",
+        "type": "CITY_OR_TOWN",
+        "county": "Sisa\u010dko-moslava\u010dka",
+        "countyId": 3
+    },
+    {
+        "name": "Lekenik",
+        "type": "MUNICIPALITY",
+        "county": "Sisa\u010dko-moslava\u010dka",
+        "countyId": 3
+    },
+    {
+        "name": "Lipovljani",
+        "type": "MUNICIPALITY",
+        "county": "Sisa\u010dko-moslava\u010dka",
+        "countyId": 3
+    },
+    {
+        "name": "Majur",
+        "type": "MUNICIPALITY",
+        "county": "Sisa\u010dko-moslava\u010dka",
+        "countyId": 3
+    },
+    {
+        "name": "Martinska Ves",
+        "type": "MUNICIPALITY",
+        "county": "Sisa\u010dko-moslava\u010dka",
+        "countyId": 3
+    },
+    {
+        "name": "Novska",
+        "type": "CITY_OR_TOWN",
+        "county": "Sisa\u010dko-moslava\u010dka",
+        "countyId": 3
+    },
+    {
+        "name": "Petrinja",
+        "type": "CITY_OR_TOWN",
+        "county": "Sisa\u010dko-moslava\u010dka",
+        "countyId": 3
+    },
+    {
+        "name": "Popova\u010da",
+        "type": "CITY_OR_TOWN",
+        "county": "Sisa\u010dko-moslava\u010dka",
+        "countyId": 3
+    },
+    {
+        "name": "Sisak",
+        "type": "CITY_OR_TOWN",
+        "county": "Sisa\u010dko-moslava\u010dka",
+        "countyId": 3
+    },
+    {
+        "name": "Sunja",
+        "type": "MUNICIPALITY",
+        "county": "Sisa\u010dko-moslava\u010dka",
+        "countyId": 3
+    },
+    {
+        "name": "Topusko",
+        "type": "MUNICIPALITY",
+        "county": "Sisa\u010dko-moslava\u010dka",
+        "countyId": 3
+    },
+    {
+        "name": "Velika Ludina",
+        "type": "MUNICIPALITY",
+        "county": "Sisa\u010dko-moslava\u010dka",
+        "countyId": 3
+    },
+    {
+        "name": "Barilovi\u0107",
+        "type": "MUNICIPALITY",
+        "county": "Karlova\u010dka",
+        "countyId": 4
+    },
+    {
+        "name": "Bosiljevo",
+        "type": "MUNICIPALITY",
+        "county": "Karlova\u010dka",
+        "countyId": 4
+    },
+    {
+        "name": "Cetingrad",
+        "type": "MUNICIPALITY",
+        "county": "Karlova\u010dka",
+        "countyId": 4
+    },
+    {
+        "name": "Dragani\u0107",
+        "type": "MUNICIPALITY",
+        "county": "Karlova\u010dka",
+        "countyId": 4
+    },
+    {
+        "name": "Generalski Stol",
+        "type": "MUNICIPALITY",
+        "county": "Karlova\u010dka",
+        "countyId": 4
+    },
+    {
+        "name": "Josipdol",
+        "type": "MUNICIPALITY",
+        "county": "Karlova\u010dka",
+        "countyId": 4
+    },
+    {
+        "name": "Kamanje",
+        "type": "MUNICIPALITY",
+        "county": "Karlova\u010dka",
+        "countyId": 4
+    },
+    {
+        "name": "Krnjak",
+        "type": "MUNICIPALITY",
+        "county": "Karlova\u010dka",
+        "countyId": 4
+    },
+    {
+        "name": "Lasinja",
+        "type": "MUNICIPALITY",
+        "county": "Karlova\u010dka",
+        "countyId": 4
+    },
+    {
+        "name": "Netreti\u0107",
+        "type": "MUNICIPALITY",
+        "county": "Karlova\u010dka",
+        "countyId": 4
+    },
+    {
+        "name": "Pla\u0161ki",
+        "type": "MUNICIPALITY",
+        "county": "Karlova\u010dka",
+        "countyId": 4
+    },
+    {
+        "name": "Rakovica",
+        "type": "MUNICIPALITY",
+        "county": "Karlova\u010dka",
+        "countyId": 4
+    },
+    {
+        "name": "Ribnik",
+        "type": "MUNICIPALITY",
+        "county": "Karlova\u010dka",
+        "countyId": 4
+    },
+    {
+        "name": "Saborsko",
+        "type": "MUNICIPALITY",
+        "county": "Karlova\u010dka",
+        "countyId": 4
+    },
+    {
+        "name": "Tounj",
+        "type": "MUNICIPALITY",
+        "county": "Karlova\u010dka",
+        "countyId": 4
+    },
+    {
+        "name": "Vojni\u0107",
+        "type": "MUNICIPALITY",
+        "county": "Karlova\u010dka",
+        "countyId": 4
+    },
+    {
+        "name": "\u017dakanje",
+        "type": "MUNICIPALITY",
+        "county": "Karlova\u010dka",
+        "countyId": 4
+    },
+    {
+        "name": "Duga Resa",
+        "type": "CITY_OR_TOWN",
+        "county": "Karlova\u010dka",
+        "countyId": 4
+    },
+    {
+        "name": "Karlovac",
+        "type": "CITY_OR_TOWN",
+        "county": "Karlova\u010dka",
+        "countyId": 4
+    },
+    {
+        "name": "Ogulin",
+        "type": "CITY_OR_TOWN",
+        "county": "Karlova\u010dka",
+        "countyId": 4
+    },
+    {
+        "name": "Ozalj",
+        "type": "CITY_OR_TOWN",
+        "county": "Karlova\u010dka",
+        "countyId": 4
+    },
+    {
+        "name": "Slunj",
+        "type": "CITY_OR_TOWN",
+        "county": "Karlova\u010dka",
+        "countyId": 4
+    },
+    {
+        "name": "Brinje",
+        "type": "MUNICIPALITY",
+        "county": "Li\u010dko-senjska",
+        "countyId": 9
+    },
+    {
+        "name": "Donji Lapac",
+        "type": "MUNICIPALITY",
+        "county": "Li\u010dko-senjska",
+        "countyId": 9
+    },
+    {
+        "name": "Gospi\u0107",
+        "type": "CITY_OR_TOWN",
+        "county": "Li\u010dko-senjska",
+        "countyId": 9
+    },
+    {
+        "name": "Karlobag",
+        "type": "MUNICIPALITY",
+        "county": "Li\u010dko-senjska",
+        "countyId": 9
+    },
+    {
+        "name": "Lovinac",
+        "type": "MUNICIPALITY",
+        "county": "Li\u010dko-senjska",
+        "countyId": 9
+    },
+    {
+        "name": "Novalja",
+        "type": "CITY_OR_TOWN",
+        "county": "Li\u010dko-senjska",
+        "countyId": 9
+    },
+    {
+        "name": "Oto\u010dac",
+        "type": "CITY_OR_TOWN",
+        "county": "Li\u010dko-senjska",
+        "countyId": 9
+    },
+    {
+        "name": "Peru\u0161i\u0107",
+        "type": "MUNICIPALITY",
+        "county": "Li\u010dko-senjska",
+        "countyId": 9
+    },
+    {
+        "name": "Plitvi\u010dka Jezera",
+        "type": "MUNICIPALITY",
+        "county": "Li\u010dko-senjska",
+        "countyId": 9
+    },
+    {
+        "name": "Senj",
+        "type": "CITY_OR_TOWN",
+        "county": "Li\u010dko-senjska",
+        "countyId": 9
+    },
+    {
+        "name": "Udbina",
+        "type": "MUNICIPALITY",
+        "county": "Li\u010dko-senjska",
+        "countyId": 9
+    },
+    {
+        "name": "Vrhovine",
+        "type": "MUNICIPALITY",
+        "county": "Li\u010dko-senjska",
+        "countyId": 9
+    },
+    {
+        "name": "Bednja",
+        "type": "MUNICIPALITY",
+        "county": "Vara\u017edinska",
+        "countyId": 5
+    },
+    {
+        "name": "Beretinec",
+        "type": "MUNICIPALITY",
+        "county": "Vara\u017edinska",
+        "countyId": 5
+    },
+    {
+        "name": "Breznica",
+        "type": "MUNICIPALITY",
+        "county": "Vara\u017edinska",
+        "countyId": 5
+    },
+    {
+        "name": "Brezni\u010dki Hum",
+        "type": "MUNICIPALITY",
+        "county": "Vara\u017edinska",
+        "countyId": 5
+    },
+    {
+        "name": "Cestica",
+        "type": "MUNICIPALITY",
+        "county": "Vara\u017edinska",
+        "countyId": 5
+    },
+    {
+        "name": "Donja Vo\u0107a",
+        "type": "MUNICIPALITY",
+        "county": "Vara\u017edinska",
+        "countyId": 5
+    },
+    {
+        "name": "Gornji Kneginec",
+        "type": "MUNICIPALITY",
+        "county": "Vara\u017edinska",
+        "countyId": 5
+    },
+    {
+        "name": "Jal\u017eabet",
+        "type": "MUNICIPALITY",
+        "county": "Vara\u017edinska",
+        "countyId": 5
+    },
+    {
+        "name": "Ivanec",
+        "type": "CITY_OR_TOWN",
+        "county": "Vara\u017edinska",
+        "countyId": 5
+    },
+    {
+        "name": "Klenovnik",
+        "type": "MUNICIPALITY",
+        "county": "Vara\u017edinska",
+        "countyId": 5
+    },
+    {
+        "name": "Ljube\u0161\u0107ica",
+        "type": "MUNICIPALITY",
+        "county": "Vara\u017edinska",
+        "countyId": 5
+    },
+    {
+        "name": "Lepoglava",
+        "type": "CITY_OR_TOWN",
+        "county": "Vara\u017edinska",
+        "countyId": 5
+    },
+    {
+        "name": "Ludbreg",
+        "type": "CITY_OR_TOWN",
+        "county": "Vara\u017edinska",
+        "countyId": 5
+    },
+    {
+        "name": "Mali Bukovec",
+        "type": "MUNICIPALITY",
+        "county": "Vara\u017edinska",
+        "countyId": 5
+    },
+    {
+        "name": "Martijanec",
+        "type": "MUNICIPALITY",
+        "county": "Vara\u017edinska",
+        "countyId": 5
+    },
+    {
+        "name": "Maru\u0161evec",
+        "type": "MUNICIPALITY",
+        "county": "Vara\u017edinska",
+        "countyId": 5
+    },
+    {
+        "name": "Novi Marof",
+        "type": "CITY_OR_TOWN",
+        "county": "Vara\u017edinska",
+        "countyId": 5
+    },
+    {
+        "name": "Petrijanec",
+        "type": "MUNICIPALITY",
+        "county": "Vara\u017edinska",
+        "countyId": 5
+    },
+    {
+        "name": "Sra\u010dinec",
+        "type": "MUNICIPALITY",
+        "county": "Vara\u017edinska",
+        "countyId": 5
+    },
+    {
+        "name": "Sveti \u0110ur\u0111",
+        "type": "MUNICIPALITY",
+        "county": "Vara\u017edinska",
+        "countyId": 5
+    },
+    {
+        "name": "Sveti Ilija",
+        "type": "MUNICIPALITY",
+        "county": "Vara\u017edinska",
+        "countyId": 5
+    },
+    {
+        "name": "Trnovec Bartolove\u010dki",
+        "type": "MUNICIPALITY",
+        "county": "Vara\u017edinska",
+        "countyId": 5
+    },
+    {
+        "name": "Vara\u017edin",
+        "type": "CITY_OR_TOWN",
+        "county": "Vara\u017edinska",
+        "countyId": 5
+    },
+    {
+        "name": "Vara\u017edinske Toplice",
+        "type": "CITY_OR_TOWN",
+        "county": "Vara\u017edinska",
+        "countyId": 5
+    },
+    {
+        "name": "Veliki Bukovec",
+        "type": "MUNICIPALITY",
+        "county": "Vara\u017edinska",
+        "countyId": 5
+    },
+    {
+        "name": "Vidovec",
+        "type": "MUNICIPALITY",
+        "county": "Vara\u017edinska",
+        "countyId": 5
+    },
+    {
+        "name": "Vinica",
+        "type": "MUNICIPALITY",
+        "county": "Vara\u017edinska",
+        "countyId": 5
+    },
+    {
+        "name": "Visoko",
+        "type": "MUNICIPALITY",
+        "county": "Vara\u017edinska",
+        "countyId": 5
+    },
+    {
+        "name": "Drnje",
+        "type": "MUNICIPALITY",
+        "county": "Koprivni\u010dko-kri\u017eeva\u010dka",
+        "countyId": 6
+    },
+    {
+        "name": "\u0110elekovec",
+        "type": "MUNICIPALITY",
+        "county": "Koprivni\u010dko-kri\u017eeva\u010dka",
+        "countyId": 6
+    },
+    {
+        "name": "\u0110ur\u0111evac",
+        "type": "CITY_OR_TOWN",
+        "county": "Koprivni\u010dko-kri\u017eeva\u010dka",
+        "countyId": 6
+    },
+    {
+        "name": "Ferdinandovac",
+        "type": "MUNICIPALITY",
+        "county": "Koprivni\u010dko-kri\u017eeva\u010dka",
+        "countyId": 6
+    },
+    {
+        "name": "Gola",
+        "type": "MUNICIPALITY",
+        "county": "Koprivni\u010dko-kri\u017eeva\u010dka",
+        "countyId": 6
+    },
+    {
+        "name": "Gornja Rijeka",
+        "type": "MUNICIPALITY",
+        "county": "Koprivni\u010dko-kri\u017eeva\u010dka",
+        "countyId": 6
+    },
+    {
+        "name": "Hlebine",
+        "type": "MUNICIPALITY",
+        "county": "Koprivni\u010dko-kri\u017eeva\u010dka",
+        "countyId": 6
+    },
+    {
+        "name": "Kalinovac",
+        "type": "MUNICIPALITY",
+        "county": "Koprivni\u010dko-kri\u017eeva\u010dka",
+        "countyId": 6
+    },
+    {
+        "name": "Kalnik",
+        "type": "MUNICIPALITY",
+        "county": "Koprivni\u010dko-kri\u017eeva\u010dka",
+        "countyId": 6
+    },
+    {
+        "name": "Klo\u0161tar Podravski",
+        "type": "MUNICIPALITY",
+        "county": "Koprivni\u010dko-kri\u017eeva\u010dka",
+        "countyId": 6
+    },
+    {
+        "name": "Koprivni\u010dki Bregi",
+        "type": "MUNICIPALITY",
+        "county": "Koprivni\u010dko-kri\u017eeva\u010dka",
+        "countyId": 6
+    },
+    {
+        "name": "Koprivnica",
+        "type": "CITY_OR_TOWN",
+        "county": "Koprivni\u010dko-kri\u017eeva\u010dka",
+        "countyId": 6
+    },
+    {
+        "name": "Koprivni\u010dki Ivanec",
+        "type": "MUNICIPALITY",
+        "county": "Koprivni\u010dko-kri\u017eeva\u010dka",
+        "countyId": 6
+    },
+    {
+        "name": "Legrad",
+        "type": "MUNICIPALITY",
+        "county": "Koprivni\u010dko-kri\u017eeva\u010dka",
+        "countyId": 6
+    },
+    {
+        "name": "Molve",
+        "type": "MUNICIPALITY",
+        "county": "Koprivni\u010dko-kri\u017eeva\u010dka",
+        "countyId": 6
+    },
+    {
+        "name": "Novigrad Podravski",
+        "type": "MUNICIPALITY",
+        "county": "Koprivni\u010dko-kri\u017eeva\u010dka",
+        "countyId": 6
+    },
+    {
+        "name": "Novo Virje",
+        "type": "MUNICIPALITY",
+        "county": "Koprivni\u010dko-kri\u017eeva\u010dka",
+        "countyId": 6
+    },
+    {
+        "name": "Peteranec",
+        "type": "MUNICIPALITY",
+        "county": "Koprivni\u010dko-kri\u017eeva\u010dka",
+        "countyId": 6
+    },
+    {
+        "name": "Podravske Sesvete",
+        "type": "MUNICIPALITY",
+        "county": "Koprivni\u010dko-kri\u017eeva\u010dka",
+        "countyId": 6
+    },
+    {
+        "name": "Rasinja",
+        "type": "MUNICIPALITY",
+        "county": "Koprivni\u010dko-kri\u017eeva\u010dka",
+        "countyId": 6
+    },
+    {
+        "name": "Sokolovac",
+        "type": "MUNICIPALITY",
+        "county": "Koprivni\u010dko-kri\u017eeva\u010dka",
+        "countyId": 6
+    },
+    {
+        "name": "Sveti Ivan \u017dabno",
+        "type": "MUNICIPALITY",
+        "county": "Koprivni\u010dko-kri\u017eeva\u010dka",
+        "countyId": 6
+    },
+    {
+        "name": "Sveti Petar Orehovec",
+        "type": "MUNICIPALITY",
+        "county": "Koprivni\u010dko-kri\u017eeva\u010dka",
+        "countyId": 6
+    },
+    {
+        "name": "Virje",
+        "type": "MUNICIPALITY",
+        "county": "Koprivni\u010dko-kri\u017eeva\u010dka",
+        "countyId": 6
+    },
+    {
+        "name": "Kri\u017eevci",
+        "type": "CITY_OR_TOWN",
+        "county": "Koprivni\u010dko-kri\u017eeva\u010dka",
+        "countyId": 6
+    },
+    {
+        "name": "Berek",
+        "type": "MUNICIPALITY",
+        "county": "Bjelovarsko-bilogorska",
+        "countyId": 7
+    },
+    {
+        "name": "Bjelovar",
+        "type": "CITY_OR_TOWN",
+        "county": "Bjelovarsko-bilogorska",
+        "countyId": 7
+    },
+    {
+        "name": "\u010cazma",
+        "type": "CITY_OR_TOWN",
+        "county": "Bjelovarsko-bilogorska",
+        "countyId": 7
+    },
+    {
+        "name": "Daruvar",
+        "type": "CITY_OR_TOWN",
+        "county": "Bjelovarsko-bilogorska",
+        "countyId": 7
+    },
+    {
+        "name": "De\u017eanovac",
+        "type": "MUNICIPALITY",
+        "county": "Bjelovarsko-bilogorska",
+        "countyId": 7
+    },
+    {
+        "name": "\u0110ulovac",
+        "type": "MUNICIPALITY",
+        "county": "Bjelovarsko-bilogorska",
+        "countyId": 7
+    },
+    {
+        "name": "Gare\u0161nica",
+        "type": "CITY_OR_TOWN",
+        "county": "Bjelovarsko-bilogorska",
+        "countyId": 7
+    },
+    {
+        "name": "Grubi\u0161no Polje",
+        "type": "CITY_OR_TOWN",
+        "county": "Bjelovarsko-bilogorska",
+        "countyId": 7
+    },
+    {
+        "name": "Hercegovac",
+        "type": "MUNICIPALITY",
+        "county": "Bjelovarsko-bilogorska",
+        "countyId": 7
+    },
+    {
+        "name": "Ivanska",
+        "type": "MUNICIPALITY",
+        "county": "Bjelovarsko-bilogorska",
+        "countyId": 7
+    },
+    {
+        "name": "Kapela",
+        "type": "MUNICIPALITY",
+        "county": "Bjelovarsko-bilogorska",
+        "countyId": 7
+    },
+    {
+        "name": "Kon\u010danica",
+        "type": "MUNICIPALITY",
+        "county": "Bjelovarsko-bilogorska",
+        "countyId": 7
+    },
+    {
+        "name": "Nova Ra\u010da",
+        "type": "MUNICIPALITY",
+        "county": "Bjelovarsko-bilogorska",
+        "countyId": 7
+    },
+    {
+        "name": "Rovi\u0161\u0107e",
+        "type": "MUNICIPALITY",
+        "county": "Bjelovarsko-bilogorska",
+        "countyId": 7
+    },
+    {
+        "name": "Severin",
+        "type": "MUNICIPALITY",
+        "county": "Bjelovarsko-bilogorska",
+        "countyId": 7
+    },
+    {
+        "name": "Sira\u010d",
+        "type": "MUNICIPALITY",
+        "county": "Bjelovarsko-bilogorska",
+        "countyId": 7
+    },
+    {
+        "name": "\u0160androvac",
+        "type": "MUNICIPALITY",
+        "county": "Bjelovarsko-bilogorska",
+        "countyId": 7
+    },
+    {
+        "name": "\u0160tefanje",
+        "type": "MUNICIPALITY",
+        "county": "Bjelovarsko-bilogorska",
+        "countyId": 7
+    },
+    {
+        "name": "Velika Pisanica",
+        "type": "MUNICIPALITY",
+        "county": "Bjelovarsko-bilogorska",
+        "countyId": 7
+    },
+    {
+        "name": "Velika Trnovitica",
+        "type": "MUNICIPALITY",
+        "county": "Bjelovarsko-bilogorska",
+        "countyId": 7
+    },
+    {
+        "name": "Veliki Gr\u0111evac",
+        "type": "MUNICIPALITY",
+        "county": "Bjelovarsko-bilogorska",
+        "countyId": 7
+    },
+    {
+        "name": "Veliko Trojstvo",
+        "type": "MUNICIPALITY",
+        "county": "Bjelovarsko-bilogorska",
+        "countyId": 7
+    },
+    {
+        "name": "Zrinski Topolovac",
+        "type": "MUNICIPALITY",
+        "county": "Bjelovarsko-bilogorska",
+        "countyId": 7
+    },
+    {
+        "name": "Bakar",
+        "type": "CITY_OR_TOWN",
+        "county": "Primorsko-goranska",
+        "countyId": 8
+    },
+    {
+        "name": "Ba\u0161ka",
+        "type": "MUNICIPALITY",
+        "county": "Primorsko-goranska",
+        "countyId": 8
+    },
+    {
+        "name": "Brod Moravice",
+        "type": "MUNICIPALITY",
+        "county": "Primorsko-goranska",
+        "countyId": 8
+    },
+    {
+        "name": "Cres",
+        "type": "CITY_OR_TOWN",
+        "county": "Primorsko-goranska",
+        "countyId": 8
+    },
+    {
+        "name": "Crikvenica",
+        "type": "CITY_OR_TOWN",
+        "county": "Primorsko-goranska",
+        "countyId": 8
+    },
+    {
+        "name": "\u010cabar",
+        "type": "CITY_OR_TOWN",
+        "county": "Primorsko-goranska",
+        "countyId": 8
+    },
+    {
+        "name": "\u010cavle",
+        "type": "MUNICIPALITY",
+        "county": "Primorsko-goranska",
+        "countyId": 8
+    },
+    {
+        "name": "Delnice",
+        "type": "CITY_OR_TOWN",
+        "county": "Primorsko-goranska",
+        "countyId": 8
+    },
+    {
+        "name": "Dobrinj",
+        "type": "MUNICIPALITY",
+        "county": "Primorsko-goranska",
+        "countyId": 8
+    },
+    {
+        "name": "Fu\u017eine",
+        "type": "MUNICIPALITY",
+        "county": "Primorsko-goranska",
+        "countyId": 8
+    },
+    {
+        "name": "Jelenje",
+        "type": "MUNICIPALITY",
+        "county": "Primorsko-goranska",
+        "countyId": 8
+    },
+    {
+        "name": "Kastav",
+        "type": "CITY_OR_TOWN",
+        "county": "Primorsko-goranska",
+        "countyId": 8
+    },
+    {
+        "name": "Klana",
+        "type": "MUNICIPALITY",
+        "county": "Primorsko-goranska",
+        "countyId": 8
+    },
+    {
+        "name": "Kostrena",
+        "type": "MUNICIPALITY",
+        "county": "Primorsko-goranska",
+        "countyId": 8
+    },
+    {
+        "name": "Kraljevica",
+        "type": "CITY_OR_TOWN",
+        "county": "Primorsko-goranska",
+        "countyId": 8
+    },
+    {
+        "name": "Krk",
+        "type": "CITY_OR_TOWN",
+        "county": "Primorsko-goranska",
+        "countyId": 8
+    },
+    {
+        "name": "Lokve",
+        "type": "MUNICIPALITY",
+        "county": "Primorsko-goranska",
+        "countyId": 8
+    },
+    {
+        "name": "Lopar",
+        "type": "MUNICIPALITY",
+        "county": "Primorsko-goranska",
+        "countyId": 8
+    },
+    {
+        "name": "Lovran",
+        "type": "MUNICIPALITY",
+        "county": "Primorsko-goranska",
+        "countyId": 8
+    },
+    {
+        "name": "Mali Lo\u0161inj",
+        "type": "CITY_OR_TOWN",
+        "county": "Primorsko-goranska",
+        "countyId": 8
+    },
+    {
+        "name": "Malinska-Duba\u0161nica",
+        "type": "MUNICIPALITY",
+        "county": "Primorsko-goranska",
+        "countyId": 8
+    },
+    {
+        "name": "Matulji",
+        "type": "MUNICIPALITY",
+        "county": "Primorsko-goranska",
+        "countyId": 8
+    },
+    {
+        "name": "Mo\u0161\u0107eni\u010dka Draga",
+        "type": "MUNICIPALITY",
+        "county": "Primorsko-goranska",
+        "countyId": 8
+    },
+    {
+        "name": "Mrkopalj",
+        "type": "MUNICIPALITY",
+        "county": "Primorsko-goranska",
+        "countyId": 8
+    },
+    {
+        "name": "Novi Vinodolski",
+        "type": "CITY_OR_TOWN",
+        "county": "Primorsko-goranska",
+        "countyId": 8
+    },
+    {
+        "name": "Omi\u0161alj",
+        "type": "MUNICIPALITY",
+        "county": "Primorsko-goranska",
+        "countyId": 8
+    },
+    {
+        "name": "Opatija",
+        "type": "CITY_OR_TOWN",
+        "county": "Primorsko-goranska",
+        "countyId": 8
+    },
+    {
+        "name": "Punat",
+        "type": "MUNICIPALITY",
+        "county": "Primorsko-goranska",
+        "countyId": 8
+    },
+    {
+        "name": "Rab",
+        "type": "CITY_OR_TOWN",
+        "county": "Primorsko-goranska",
+        "countyId": 8
+    },
+    {
+        "name": "Ravna Gora",
+        "type": "MUNICIPALITY",
+        "county": "Primorsko-goranska",
+        "countyId": 8
+    },
+    {
+        "name": "Rijeka",
+        "type": "CITY_OR_TOWN",
+        "county": "Primorsko-goranska",
+        "countyId": 8
+    },
+    {
+        "name": "Skrad",
+        "type": "MUNICIPALITY",
+        "county": "Primorsko-goranska",
+        "countyId": 8
+    },
+    {
+        "name": "Vinodolska op\u0107ina",
+        "type": "MUNICIPALITY",
+        "county": "Primorsko-goranska",
+        "countyId": 8
+    },
+    {
+        "name": "Vi\u0161kovo",
+        "type": "MUNICIPALITY",
+        "county": "Primorsko-goranska",
+        "countyId": 8
+    },
+    {
+        "name": "Vrbnik",
+        "type": "MUNICIPALITY",
+        "county": "Primorsko-goranska",
+        "countyId": 8
+    },
+    {
+        "name": "Vrbovsko",
+        "type": "CITY_OR_TOWN",
+        "county": "Primorsko-goranska",
+        "countyId": 8
+    },
+    {
+        "name": "Crnac",
+        "type": "MUNICIPALITY",
+        "county": "Viroviti\u010dko-podravska",
+        "countyId": 10
+    },
+    {
+        "name": "\u010ca\u010dinci",
+        "type": "MUNICIPALITY",
+        "county": "Viroviti\u010dko-podravska",
+        "countyId": 10
+    },
+    {
+        "name": "\u010ca\u0111avica",
+        "type": "MUNICIPALITY",
+        "county": "Viroviti\u010dko-podravska",
+        "countyId": 10
+    },
+    {
+        "name": "Gradina",
+        "type": "MUNICIPALITY",
+        "county": "Viroviti\u010dko-podravska",
+        "countyId": 10
+    },
+    {
+        "name": "Luka\u010d",
+        "type": "MUNICIPALITY",
+        "county": "Viroviti\u010dko-podravska",
+        "countyId": 10
+    },
+    {
+        "name": "Mikleu\u0161",
+        "type": "MUNICIPALITY",
+        "county": "Viroviti\u010dko-podravska",
+        "countyId": 10
+    },
+    {
+        "name": "Nova Bukovica",
+        "type": "MUNICIPALITY",
+        "county": "Viroviti\u010dko-podravska",
+        "countyId": 10
+    },
+    {
+        "name": "Orahovica",
+        "type": "CITY_OR_TOWN",
+        "county": "Viroviti\u010dko-podravska",
+        "countyId": 10
+    },
+    {
+        "name": "Pitoma\u010da",
+        "type": "MUNICIPALITY",
+        "county": "Viroviti\u010dko-podravska",
+        "countyId": 10
+    },
+    {
+        "name": "Slatina",
+        "type": "CITY_OR_TOWN",
+        "county": "Viroviti\u010dko-podravska",
+        "countyId": 10
+    },
+    {
+        "name": "Sopje",
+        "type": "MUNICIPALITY",
+        "county": "Viroviti\u010dko-podravska",
+        "countyId": 10
+    },
+    {
+        "name": "Suhopolje",
+        "type": "MUNICIPALITY",
+        "county": "Viroviti\u010dko-podravska",
+        "countyId": 10
+    },
+    {
+        "name": "\u0160pi\u0161i\u0107 Bukovica",
+        "type": "MUNICIPALITY",
+        "county": "Viroviti\u010dko-podravska",
+        "countyId": 10
+    },
+    {
+        "name": "Virovitica",
+        "type": "CITY_OR_TOWN",
+        "county": "Viroviti\u010dko-podravska",
+        "countyId": 10
+    },
+    {
+        "name": "Vo\u0107in",
+        "type": "MUNICIPALITY",
+        "county": "Viroviti\u010dko-podravska",
+        "countyId": 10
+    },
+    {
+        "name": "Zdenci",
+        "type": "MUNICIPALITY",
+        "county": "Viroviti\u010dko-podravska",
+        "countyId": 10
+    },
+    {
+        "name": "Brestovac",
+        "type": "MUNICIPALITY",
+        "county": "Po\u017ee\u0161ko-slavonska",
+        "countyId": 11
+    },
+    {
+        "name": "\u010caglin",
+        "type": "MUNICIPALITY",
+        "county": "Po\u017ee\u0161ko-slavonska",
+        "countyId": 11
+    },
+    {
+        "name": "Jak\u0161i\u0107",
+        "type": "MUNICIPALITY",
+        "county": "Po\u017ee\u0161ko-slavonska",
+        "countyId": 11
+    },
+    {
+        "name": "Kaptol",
+        "type": "MUNICIPALITY",
+        "county": "Po\u017ee\u0161ko-slavonska",
+        "countyId": 11
+    },
+    {
+        "name": "Kutjevo",
+        "type": "CITY_OR_TOWN",
+        "county": "Po\u017ee\u0161ko-slavonska",
+        "countyId": 11
+    },
+    {
+        "name": "Lipik",
+        "type": "CITY_OR_TOWN",
+        "county": "Po\u017ee\u0161ko-slavonska",
+        "countyId": 11
+    },
+    {
+        "name": "Pakrac",
+        "type": "CITY_OR_TOWN",
+        "county": "Po\u017ee\u0161ko-slavonska",
+        "countyId": 11
+    },
+    {
+        "name": "Pleternica",
+        "type": "CITY_OR_TOWN",
+        "county": "Po\u017ee\u0161ko-slavonska",
+        "countyId": 11
+    },
+    {
+        "name": "Po\u017eega",
+        "type": "CITY_OR_TOWN",
+        "county": "Po\u017ee\u0161ko-slavonska",
+        "countyId": 11
+    },
+    {
+        "name": "Velika",
+        "type": "MUNICIPALITY",
+        "county": "Po\u017ee\u0161ko-slavonska",
+        "countyId": 11
+    },
+    {
+        "name": "Bebrina",
+        "type": "MUNICIPALITY",
+        "county": "Brodsko-posavska",
+        "countyId": 12
+    },
+    {
+        "name": "Brodski Stupnik",
+        "type": "MUNICIPALITY",
+        "county": "Brodsko-posavska",
+        "countyId": 12
+    },
+    {
+        "name": "Bukovlje",
+        "type": "MUNICIPALITY",
+        "county": "Brodsko-posavska",
+        "countyId": 12
+    },
+    {
+        "name": "Cernik",
+        "type": "MUNICIPALITY",
+        "county": "Brodsko-posavska",
+        "countyId": 12
+    },
+    {
+        "name": "Davor",
+        "type": "MUNICIPALITY",
+        "county": "Brodsko-posavska",
+        "countyId": 12
+    },
+    {
+        "name": "Donji Andrijevci",
+        "type": "MUNICIPALITY",
+        "county": "Brodsko-posavska",
+        "countyId": 12
+    },
+    {
+        "name": "Dragali\u0107",
+        "type": "MUNICIPALITY",
+        "county": "Brodsko-posavska",
+        "countyId": 12
+    },
+    {
+        "name": "Gar\u010din",
+        "type": "MUNICIPALITY",
+        "county": "Brodsko-posavska",
+        "countyId": 12
+    },
+    {
+        "name": "Gornja Vrba",
+        "type": "MUNICIPALITY",
+        "county": "Brodsko-posavska",
+        "countyId": 12
+    },
+    {
+        "name": "Gornji Bogi\u0107evci",
+        "type": "MUNICIPALITY",
+        "county": "Brodsko-posavska",
+        "countyId": 12
+    },
+    {
+        "name": "Gundinci",
+        "type": "MUNICIPALITY",
+        "county": "Brodsko-posavska",
+        "countyId": 12
+    },
+    {
+        "name": "Klakar",
+        "type": "MUNICIPALITY",
+        "county": "Brodsko-posavska",
+        "countyId": 12
+    },
+    {
+        "name": "Nova Gradi\u0161ka",
+        "type": "CITY_OR_TOWN",
+        "county": "Brodsko-posavska",
+        "countyId": 12
+    },
+    {
+        "name": "Nova Kapela",
+        "type": "MUNICIPALITY",
+        "county": "Brodsko-posavska",
+        "countyId": 12
+    },
+    {
+        "name": "Oku\u010dani",
+        "type": "MUNICIPALITY",
+        "county": "Brodsko-posavska",
+        "countyId": 12
+    },
+    {
+        "name": "Oprisavci",
+        "type": "MUNICIPALITY",
+        "county": "Brodsko-posavska",
+        "countyId": 12
+    },
+    {
+        "name": "Oriovac",
+        "type": "MUNICIPALITY",
+        "county": "Brodsko-posavska",
+        "countyId": 12
+    },
+    {
+        "name": "Podcrkavlje",
+        "type": "MUNICIPALITY",
+        "county": "Brodsko-posavska",
+        "countyId": 12
+    },
+    {
+        "name": "Re\u0161etari",
+        "type": "MUNICIPALITY",
+        "county": "Brodsko-posavska",
+        "countyId": 12
+    },
+    {
+        "name": "Sibinj",
+        "type": "MUNICIPALITY",
+        "county": "Brodsko-posavska",
+        "countyId": 12
+    },
+    {
+        "name": "Sikirevci",
+        "type": "MUNICIPALITY",
+        "county": "Brodsko-posavska",
+        "countyId": 12
+    },
+    {
+        "name": "Slavonski Brod",
+        "type": "CITY_OR_TOWN",
+        "county": "Brodsko-posavska",
+        "countyId": 12
+    },
+    {
+        "name": "Slavonski \u0160amac",
+        "type": "MUNICIPALITY",
+        "county": "Brodsko-posavska",
+        "countyId": 12
+    },
+    {
+        "name": "Stara Gradi\u0161ka",
+        "type": "MUNICIPALITY",
+        "county": "Brodsko-posavska",
+        "countyId": 12
+    },
+    {
+        "name": "Staro Petrovo Selo",
+        "type": "MUNICIPALITY",
+        "county": "Brodsko-posavska",
+        "countyId": 12
+    },
+    {
+        "name": "Velika Kopanica",
+        "type": "MUNICIPALITY",
+        "county": "Brodsko-posavska",
+        "countyId": 12
+    },
+    {
+        "name": "Vrbje",
+        "type": "MUNICIPALITY",
+        "county": "Brodsko-posavska",
+        "countyId": 12
+    },
+    {
+        "name": "Vrpolje",
+        "type": "MUNICIPALITY",
+        "county": "Brodsko-posavska",
+        "countyId": 12
+    },
+    {
+        "name": "Benkovac",
+        "type": "CITY_OR_TOWN",
+        "county": "Zadarska",
+        "countyId": 13
+    },
+    {
+        "name": "Bibinje",
+        "type": "MUNICIPALITY",
+        "county": "Zadarska",
+        "countyId": 13
+    },
+    {
+        "name": "Biograd na Moru",
+        "type": "CITY_OR_TOWN",
+        "county": "Zadarska",
+        "countyId": 13
+    },
+    {
+        "name": "Galovac",
+        "type": "MUNICIPALITY",
+        "county": "Zadarska",
+        "countyId": 13
+    },
+    {
+        "name": "Gra\u010dac",
+        "type": "MUNICIPALITY",
+        "county": "Zadarska",
+        "countyId": 13
+    },
+    {
+        "name": "Jasenice",
+        "type": "MUNICIPALITY",
+        "county": "Zadarska",
+        "countyId": 13
+    },
+    {
+        "name": "Kali",
+        "type": "MUNICIPALITY",
+        "county": "Zadarska",
+        "countyId": 13
+    },
+    {
+        "name": "Kolan",
+        "type": "MUNICIPALITY",
+        "county": "Zadarska",
+        "countyId": 13
+    },
+    {
+        "name": "Kukljica",
+        "type": "MUNICIPALITY",
+        "county": "Zadarska",
+        "countyId": 13
+    },
+    {
+        "name": "Li\u0161ane Ostrovi\u010dke",
+        "type": "MUNICIPALITY",
+        "county": "Zadarska",
+        "countyId": 13
+    },
+    {
+        "name": "Nin",
+        "type": "CITY_OR_TOWN",
+        "county": "Zadarska",
+        "countyId": 13
+    },
+    {
+        "name": "Novigrad",
+        "type": "MUNICIPALITY",
+        "county": "Zadarska",
+        "countyId": 13
+    },
+    {
+        "name": "Obrovac",
+        "type": "CITY_OR_TOWN",
+        "county": "Zadarska",
+        "countyId": 13
+    },
+    {
+        "name": "Pag",
+        "type": "CITY_OR_TOWN",
+        "county": "Zadarska",
+        "countyId": 13
+    },
+    {
+        "name": "Pako\u0161tane",
+        "type": "MUNICIPALITY",
+        "county": "Zadarska",
+        "countyId": 13
+    },
+    {
+        "name": "Pa\u0161man",
+        "type": "MUNICIPALITY",
+        "county": "Zadarska",
+        "countyId": 13
+    },
+    {
+        "name": "Pola\u010da",
+        "type": "MUNICIPALITY",
+        "county": "Zadarska",
+        "countyId": 13
+    },
+    {
+        "name": "Poli\u010dnik",
+        "type": "MUNICIPALITY",
+        "county": "Zadarska",
+        "countyId": 13
+    },
+    {
+        "name": "Posedarje",
+        "type": "MUNICIPALITY",
+        "county": "Zadarska",
+        "countyId": 13
+    },
+    {
+        "name": "Povljana",
+        "type": "MUNICIPALITY",
+        "county": "Zadarska",
+        "countyId": 13
+    },
+    {
+        "name": "Preko",
+        "type": "MUNICIPALITY",
+        "county": "Zadarska",
+        "countyId": 13
+    },
+    {
+        "name": "Privlaka",
+        "type": "MUNICIPALITY",
+        "county": "Zadarska",
+        "countyId": 13
+    },
+    {
+        "name": "Ra\u017eanac",
+        "type": "MUNICIPALITY",
+        "county": "Zadarska",
+        "countyId": 13
+    },
+    {
+        "name": "Sali",
+        "type": "MUNICIPALITY",
+        "county": "Zadarska",
+        "countyId": 13
+    },
+    {
+        "name": "Stankovci",
+        "type": "MUNICIPALITY",
+        "county": "Zadarska",
+        "countyId": 13
+    },
+    {
+        "name": "Starigrad",
+        "type": "MUNICIPALITY",
+        "county": "Zadarska",
+        "countyId": 13
+    },
+    {
+        "name": "Suko\u0161an",
+        "type": "MUNICIPALITY",
+        "county": "Zadarska",
+        "countyId": 13
+    },
+    {
+        "name": "Sveti Filip i Jakov",
+        "type": "MUNICIPALITY",
+        "county": "Zadarska",
+        "countyId": 13
+    },
+    {
+        "name": "\u0160kabrnja",
+        "type": "MUNICIPALITY",
+        "county": "Zadarska",
+        "countyId": 13
+    },
+    {
+        "name": "Tkon",
+        "type": "MUNICIPALITY",
+        "county": "Zadarska",
+        "countyId": 13
+    },
+    {
+        "name": "Vir",
+        "type": "MUNICIPALITY",
+        "county": "Zadarska",
+        "countyId": 13
+    },
+    {
+        "name": "Vrsi",
+        "type": "MUNICIPALITY",
+        "county": "Zadarska",
+        "countyId": 13
+    },
+    {
+        "name": "Zadar",
+        "type": "CITY_OR_TOWN",
+        "county": "Zadarska",
+        "countyId": 13
+    },
+    {
+        "name": "Zemunik Donji",
+        "type": "MUNICIPALITY",
+        "county": "Zadarska",
+        "countyId": 13
+    },
+    {
+        "name": "Antunovac",
+        "type": "MUNICIPALITY",
+        "county": "Osje\u010dko-baranjska",
+        "countyId": 14
+    },
+    {
+        "name": "Beli Manastir",
+        "type": "CITY_OR_TOWN",
+        "county": "Osje\u010dko-baranjska",
+        "countyId": 14
+    },
+    {
+        "name": "Beli\u0161\u0107e",
+        "type": "CITY_OR_TOWN",
+        "county": "Osje\u010dko-baranjska",
+        "countyId": 14
+    },
+    {
+        "name": "Bilje",
+        "type": "MUNICIPALITY",
+        "county": "Osje\u010dko-baranjska",
+        "countyId": 14
+    },
+    {
+        "name": "Bizovac",
+        "type": "MUNICIPALITY",
+        "county": "Osje\u010dko-baranjska",
+        "countyId": 14
+    },
+    {
+        "name": "\u010ceminac",
+        "type": "MUNICIPALITY",
+        "county": "Osje\u010dko-baranjska",
+        "countyId": 14
+    },
+    {
+        "name": "\u010cepin",
+        "type": "MUNICIPALITY",
+        "county": "Osje\u010dko-baranjska",
+        "countyId": 14
+    },
+    {
+        "name": "Darda",
+        "type": "MUNICIPALITY",
+        "county": "Osje\u010dko-baranjska",
+        "countyId": 14
+    },
+    {
+        "name": "Donja Moti\u010dina",
+        "type": "MUNICIPALITY",
+        "county": "Osje\u010dko-baranjska",
+        "countyId": 14
+    },
+    {
+        "name": "Donji Miholjac",
+        "type": "CITY_OR_TOWN",
+        "county": "Osje\u010dko-baranjska",
+        "countyId": 14
+    },
+    {
+        "name": "Dra\u017e",
+        "type": "MUNICIPALITY",
+        "county": "Osje\u010dko-baranjska",
+        "countyId": 14
+    },
+    {
+        "name": "Drenje",
+        "type": "MUNICIPALITY",
+        "county": "Osje\u010dko-baranjska",
+        "countyId": 14
+    },
+    {
+        "name": "\u0110akovo",
+        "type": "CITY_OR_TOWN",
+        "county": "Osje\u010dko-baranjska",
+        "countyId": 14
+    },
+    {
+        "name": "\u0110ur\u0111enovac",
+        "type": "MUNICIPALITY",
+        "county": "Osje\u010dko-baranjska",
+        "countyId": 14
+    },
+    {
+        "name": "Erdut",
+        "type": "MUNICIPALITY",
+        "county": "Osje\u010dko-baranjska",
+        "countyId": 14
+    },
+    {
+        "name": "Ernestinovo",
+        "type": "MUNICIPALITY",
+        "county": "Osje\u010dko-baranjska",
+        "countyId": 14
+    },
+    {
+        "name": "Feri\u010danci",
+        "type": "MUNICIPALITY",
+        "county": "Osje\u010dko-baranjska",
+        "countyId": 14
+    },
+    {
+        "name": "Gorjani",
+        "type": "MUNICIPALITY",
+        "county": "Osje\u010dko-baranjska",
+        "countyId": 14
+    },
+    {
+        "name": "Jagodnjak",
+        "type": "MUNICIPALITY",
+        "county": "Osje\u010dko-baranjska",
+        "countyId": 14
+    },
+    {
+        "name": "Kne\u017eevi Vinogradi",
+        "type": "MUNICIPALITY",
+        "county": "Osje\u010dko-baranjska",
+        "countyId": 14
+    },
+    {
+        "name": "Ko\u0161ka",
+        "type": "MUNICIPALITY",
+        "county": "Osje\u010dko-baranjska",
+        "countyId": 14
+    },
+    {
+        "name": "Levanjska Varo\u0161",
+        "type": "MUNICIPALITY",
+        "county": "Osje\u010dko-baranjska",
+        "countyId": 14
+    },
+    {
+        "name": "Magadenovac",
+        "type": "MUNICIPALITY",
+        "county": "Osje\u010dko-baranjska",
+        "countyId": 14
+    },
+    {
+        "name": "Marijanci",
+        "type": "MUNICIPALITY",
+        "county": "Osje\u010dko-baranjska",
+        "countyId": 14
+    },
+    {
+        "name": "Na\u0161ice",
+        "type": "CITY_OR_TOWN",
+        "county": "Osje\u010dko-baranjska",
+        "countyId": 14
+    },
+    {
+        "name": "Osijek",
+        "type": "CITY_OR_TOWN",
+        "county": "Osje\u010dko-baranjska",
+        "countyId": 14
+    },
+    {
+        "name": "Petlovac",
+        "type": "MUNICIPALITY",
+        "county": "Osje\u010dko-baranjska",
+        "countyId": 14
+    },
+    {
+        "name": "Petrijevci",
+        "type": "MUNICIPALITY",
+        "county": "Osje\u010dko-baranjska",
+        "countyId": 14
+    },
+    {
+        "name": "Podgora\u010d",
+        "type": "MUNICIPALITY",
+        "county": "Osje\u010dko-baranjska",
+        "countyId": 14
+    },
+    {
+        "name": "Podravska Moslavina",
+        "type": "MUNICIPALITY",
+        "county": "Osje\u010dko-baranjska",
+        "countyId": 14
+    },
+    {
+        "name": "Popovac",
+        "type": "MUNICIPALITY",
+        "county": "Osje\u010dko-baranjska",
+        "countyId": 14
+    },
+    {
+        "name": "Punitovci",
+        "type": "MUNICIPALITY",
+        "county": "Osje\u010dko-baranjska",
+        "countyId": 14
+    },
+    {
+        "name": "Satnica \u0110akova\u010dka",
+        "type": "MUNICIPALITY",
+        "county": "Osje\u010dko-baranjska",
+        "countyId": 14
+    },
+    {
+        "name": "Semeljci",
+        "type": "MUNICIPALITY",
+        "county": "Osje\u010dko-baranjska",
+        "countyId": 14
+    },
+    {
+        "name": "Strizivojna",
+        "type": "MUNICIPALITY",
+        "county": "Osje\u010dko-baranjska",
+        "countyId": 14
+    },
+    {
+        "name": "\u0160odolovci",
+        "type": "MUNICIPALITY",
+        "county": "Osje\u010dko-baranjska",
+        "countyId": 14
+    },
+    {
+        "name": "Trnava",
+        "type": "MUNICIPALITY",
+        "county": "Osje\u010dko-baranjska",
+        "countyId": 14
+    },
+    {
+        "name": "Valpovo",
+        "type": "CITY_OR_TOWN",
+        "county": "Osje\u010dko-baranjska",
+        "countyId": 14
+    },
+    {
+        "name": "Viljevo",
+        "type": "MUNICIPALITY",
+        "county": "Osje\u010dko-baranjska",
+        "countyId": 14
+    },
+    {
+        "name": "Vi\u0161kovci",
+        "type": "MUNICIPALITY",
+        "county": "Osje\u010dko-baranjska",
+        "countyId": 14
+    },
+    {
+        "name": "Vladislavci",
+        "type": "MUNICIPALITY",
+        "county": "Osje\u010dko-baranjska",
+        "countyId": 14
+    },
+    {
+        "name": "Vuka",
+        "type": "MUNICIPALITY",
+        "county": "Osje\u010dko-baranjska",
+        "countyId": 14
+    },
+    {
+        "name": "Blato",
+        "type": "MUNICIPALITY",
+        "county": "Dubrova\u010dko-neretvanska",
+        "countyId": 19
+    },
+    {
+        "name": "Dubrova\u010dko primorje",
+        "type": "MUNICIPALITY",
+        "county": "Dubrova\u010dko-neretvanska",
+        "countyId": 19
+    },
+    {
+        "name": "Dubrovnik",
+        "type": "CITY_OR_TOWN",
+        "county": "Dubrova\u010dko-neretvanska",
+        "countyId": 19
+    },
+    {
+        "name": "Janjina",
+        "type": "MUNICIPALITY",
+        "county": "Dubrova\u010dko-neretvanska",
+        "countyId": 19
+    },
+    {
+        "name": "Konavle",
+        "type": "MUNICIPALITY",
+        "county": "Dubrova\u010dko-neretvanska",
+        "countyId": 19
+    },
+    {
+        "name": "Kor\u010dula",
+        "type": "CITY_OR_TOWN",
+        "county": "Dubrova\u010dko-neretvanska",
+        "countyId": 19
+    },
+    {
+        "name": "Kula Norinska",
+        "type": "MUNICIPALITY",
+        "county": "Dubrova\u010dko-neretvanska",
+        "countyId": 19
+    },
+    {
+        "name": "Lastovo",
+        "type": "MUNICIPALITY",
+        "county": "Dubrova\u010dko-neretvanska",
+        "countyId": 19
+    },
+    {
+        "name": "Lumbarda",
+        "type": "MUNICIPALITY",
+        "county": "Dubrova\u010dko-neretvanska",
+        "countyId": 19
+    },
+    {
+        "name": "Metkovi\u0107",
+        "type": "CITY_OR_TOWN",
+        "county": "Dubrova\u010dko-neretvanska",
+        "countyId": 19
+    },
+    {
+        "name": "Mljet",
+        "type": "MUNICIPALITY",
+        "county": "Dubrova\u010dko-neretvanska",
+        "countyId": 19
+    },
+    {
+        "name": "Opuzen",
+        "type": "CITY_OR_TOWN",
+        "county": "Dubrova\u010dko-neretvanska",
+        "countyId": 19
+    },
+    {
+        "name": "Orebi\u0107",
+        "type": "MUNICIPALITY",
+        "county": "Dubrova\u010dko-neretvanska",
+        "countyId": 19
+    },
+    {
+        "name": "Plo\u010de",
+        "type": "CITY_OR_TOWN",
+        "county": "Dubrova\u010dko-neretvanska",
+        "countyId": 19
+    },
+    {
+        "name": "Pojezerje",
+        "type": "MUNICIPALITY",
+        "county": "Dubrova\u010dko-neretvanska",
+        "countyId": 19
+    },
+    {
+        "name": "Slivno",
+        "type": "MUNICIPALITY",
+        "county": "Dubrova\u010dko-neretvanska",
+        "countyId": 19
+    },
+    {
+        "name": "Smokvica",
+        "type": "MUNICIPALITY",
+        "county": "Dubrova\u010dko-neretvanska",
+        "countyId": 19
+    },
+    {
+        "name": "Ston",
+        "type": "MUNICIPALITY",
+        "county": "Dubrova\u010dko-neretvanska",
+        "countyId": 19
+    },
+    {
+        "name": "Trpanj",
+        "type": "MUNICIPALITY",
+        "county": "Dubrova\u010dko-neretvanska",
+        "countyId": 19
+    },
+    {
+        "name": "Vela Luka",
+        "type": "MUNICIPALITY",
+        "county": "Dubrova\u010dko-neretvanska",
+        "countyId": 19
+    },
+    {
+        "name": "Za\u017eablje",
+        "type": "MUNICIPALITY",
+        "county": "Dubrova\u010dko-neretvanska",
+        "countyId": 19
+    },
+    {
+        "name": "\u017dupa dubrova\u010dka",
+        "type": "MUNICIPALITY",
+        "county": "Dubrova\u010dko-neretvanska",
+        "countyId": 19
+    },
+    {
+        "name": "Bilice",
+        "type": "MUNICIPALITY",
+        "county": "\u0160ibensko-kninska",
+        "countyId": 15
+    },
+    {
+        "name": "Biskupija",
+        "type": "MUNICIPALITY",
+        "county": "\u0160ibensko-kninska",
+        "countyId": 15
+    },
+    {
+        "name": "Civljane",
+        "type": "MUNICIPALITY",
+        "county": "\u0160ibensko-kninska",
+        "countyId": 15
+    },
+    {
+        "name": "Drni\u0161",
+        "type": "CITY_OR_TOWN",
+        "county": "\u0160ibensko-kninska",
+        "countyId": 15
+    },
+    {
+        "name": "Ervenik",
+        "type": "MUNICIPALITY",
+        "county": "\u0160ibensko-kninska",
+        "countyId": 15
+    },
+    {
+        "name": "Kijevo",
+        "type": "MUNICIPALITY",
+        "county": "\u0160ibensko-kninska",
+        "countyId": 15
+    },
+    {
+        "name": "Kistanje",
+        "type": "MUNICIPALITY",
+        "county": "\u0160ibensko-kninska",
+        "countyId": 15
+    },
+    {
+        "name": "Knin",
+        "type": "CITY_OR_TOWN",
+        "county": "\u0160ibensko-kninska",
+        "countyId": 15
+    },
+    {
+        "name": "Murter-Kornati",
+        "type": "MUNICIPALITY",
+        "county": "\u0160ibensko-kninska",
+        "countyId": 15
+    },
+    {
+        "name": "Pirovac",
+        "type": "MUNICIPALITY",
+        "county": "\u0160ibensko-kninska",
+        "countyId": 15
+    },
+    {
+        "name": "Primo\u0161ten",
+        "type": "MUNICIPALITY",
+        "county": "\u0160ibensko-kninska",
+        "countyId": 15
+    },
+    {
+        "name": "Promina",
+        "type": "MUNICIPALITY",
+        "county": "\u0160ibensko-kninska",
+        "countyId": 15
+    },
+    {
+        "name": "Rogoznica",
+        "type": "MUNICIPALITY",
+        "county": "\u0160ibensko-kninska",
+        "countyId": 15
+    },
+    {
+        "name": "Ru\u017ei\u0107",
+        "type": "MUNICIPALITY",
+        "county": "\u0160ibensko-kninska",
+        "countyId": 15
+    },
+    {
+        "name": "Skradin",
+        "type": "CITY_OR_TOWN",
+        "county": "\u0160ibensko-kninska",
+        "countyId": 15
+    },
+    {
+        "name": "\u0160ibenik",
+        "type": "CITY_OR_TOWN",
+        "county": "\u0160ibensko-kninska",
+        "countyId": 15
+    },
+    {
+        "name": "Tisno",
+        "type": "MUNICIPALITY",
+        "county": "\u0160ibensko-kninska",
+        "countyId": 15
+    },
+    {
+        "name": "Tribunj",
+        "type": "MUNICIPALITY",
+        "county": "\u0160ibensko-kninska",
+        "countyId": 15
+    },
+    {
+        "name": "Une\u0161i\u0107",
+        "type": "MUNICIPALITY",
+        "county": "\u0160ibensko-kninska",
+        "countyId": 15
+    },
+    {
+        "name": "Vodice",
+        "type": "CITY_OR_TOWN",
+        "county": "\u0160ibensko-kninska",
+        "countyId": 15
+    },
+    {
+        "name": "Andrija\u0161evci",
+        "type": "MUNICIPALITY",
+        "county": "Vukovarsko-srijemska",
+        "countyId": 16
+    },
+    {
+        "name": "Babina Greda",
+        "type": "MUNICIPALITY",
+        "county": "Vukovarsko-srijemska",
+        "countyId": 16
+    },
+    {
+        "name": "Bogdanovci",
+        "type": "MUNICIPALITY",
+        "county": "Vukovarsko-srijemska",
+        "countyId": 16
+    },
+    {
+        "name": "Borovo",
+        "type": "MUNICIPALITY",
+        "county": "Vukovarsko-srijemska",
+        "countyId": 16
+    },
+    {
+        "name": "Bo\u0161njaci",
+        "type": "MUNICIPALITY",
+        "county": "Vukovarsko-srijemska",
+        "countyId": 16
+    },
+    {
+        "name": "Cerna",
+        "type": "MUNICIPALITY",
+        "county": "Vukovarsko-srijemska",
+        "countyId": 16
+    },
+    {
+        "name": "Drenovci",
+        "type": "MUNICIPALITY",
+        "county": "Vukovarsko-srijemska",
+        "countyId": 16
+    },
+    {
+        "name": "Gradi\u0161te",
+        "type": "MUNICIPALITY",
+        "county": "Vukovarsko-srijemska",
+        "countyId": 16
+    },
+    {
+        "name": "Gunja",
+        "type": "MUNICIPALITY",
+        "county": "Vukovarsko-srijemska",
+        "countyId": 16
+    },
+    {
+        "name": "Ilok",
+        "type": "CITY_OR_TOWN",
+        "county": "Vukovarsko-srijemska",
+        "countyId": 16
+    },
+    {
+        "name": "Ivankovo",
+        "type": "MUNICIPALITY",
+        "county": "Vukovarsko-srijemska",
+        "countyId": 16
+    },
+    {
+        "name": "Jarmina",
+        "type": "MUNICIPALITY",
+        "county": "Vukovarsko-srijemska",
+        "countyId": 16
+    },
+    {
+        "name": "Lovas",
+        "type": "MUNICIPALITY",
+        "county": "Vukovarsko-srijemska",
+        "countyId": 16
+    },
+    {
+        "name": "Marku\u0161ica",
+        "type": "MUNICIPALITY",
+        "county": "Vukovarsko-srijemska",
+        "countyId": 16
+    },
+    {
+        "name": "Negoslavci",
+        "type": "MUNICIPALITY",
+        "county": "Vukovarsko-srijemska",
+        "countyId": 16
+    },
+    {
+        "name": "Nijemci",
+        "type": "MUNICIPALITY",
+        "county": "Vukovarsko-srijemska",
+        "countyId": 16
+    },
+    {
+        "name": "Nu\u0161tar",
+        "type": "MUNICIPALITY",
+        "county": "Vukovarsko-srijemska",
+        "countyId": 16
+    },
+    {
+        "name": "Otok",
+        "type": "CITY_OR_TOWN",
+        "county": "Vukovarsko-srijemska",
+        "countyId": 16
+    },
+    {
+        "name": "Privlaka",
+        "type": "MUNICIPALITY",
+        "county": "Vukovarsko-srijemska",
+        "countyId": 16
+    },
+    {
+        "name": "Stari Jankovci",
+        "type": "MUNICIPALITY",
+        "county": "Vukovarsko-srijemska",
+        "countyId": 16
+    },
+    {
+        "name": "Stari Mikanovci",
+        "type": "MUNICIPALITY",
+        "county": "Vukovarsko-srijemska",
+        "countyId": 16
+    },
+    {
+        "name": "\u0160titar",
+        "type": "MUNICIPALITY",
+        "county": "Vukovarsko-srijemska",
+        "countyId": 16
+    },
+    {
+        "name": "Tompojevci",
+        "type": "MUNICIPALITY",
+        "county": "Vukovarsko-srijemska",
+        "countyId": 16
+    },
+    {
+        "name": "Tordinci",
+        "type": "MUNICIPALITY",
+        "county": "Vukovarsko-srijemska",
+        "countyId": 16
+    },
+    {
+        "name": "Tovarnik",
+        "type": "MUNICIPALITY",
+        "county": "Vukovarsko-srijemska",
+        "countyId": 16
+    },
+    {
+        "name": "Trpinja",
+        "type": "MUNICIPALITY",
+        "county": "Vukovarsko-srijemska",
+        "countyId": 16
+    },
+    {
+        "name": "Vinkovci",
+        "type": "CITY_OR_TOWN",
+        "county": "Vukovarsko-srijemska",
+        "countyId": 16
+    },
+    {
+        "name": "Vo\u0111inci",
+        "type": "MUNICIPALITY",
+        "county": "Vukovarsko-srijemska",
+        "countyId": 16
+    },
+    {
+        "name": "Vrbanja",
+        "type": "MUNICIPALITY",
+        "county": "Vukovarsko-srijemska",
+        "countyId": 16
+    },
+    {
+        "name": "Vukovar",
+        "type": "CITY_OR_TOWN",
+        "county": "Vukovarsko-srijemska",
+        "countyId": 16
+    },
+    {
+        "name": "\u017dupanja",
+        "type": "CITY_OR_TOWN",
+        "county": "Vukovarsko-srijemska",
+        "countyId": 16
+    },
+    {
+        "name": "Ba\u0161ka Voda",
+        "type": "MUNICIPALITY",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Bol",
+        "type": "MUNICIPALITY",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Brela",
+        "type": "MUNICIPALITY",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Cista Provo",
+        "type": "MUNICIPALITY",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Dicmo",
+        "type": "MUNICIPALITY",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Dugi Rat",
+        "type": "MUNICIPALITY",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Dugopolje",
+        "type": "MUNICIPALITY",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Gradac",
+        "type": "MUNICIPALITY",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Hrvace",
+        "type": "MUNICIPALITY",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Hvar",
+        "type": "CITY_OR_TOWN",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Imotski",
+        "type": "CITY_OR_TOWN",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Jelsa",
+        "type": "MUNICIPALITY",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Ka\u0161tela",
+        "type": "CITY_OR_TOWN",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Klis",
+        "type": "MUNICIPALITY",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Komi\u017ea",
+        "type": "CITY_OR_TOWN",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Le\u0107evica",
+        "type": "MUNICIPALITY",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Lokvi\u010di\u0107i",
+        "type": "MUNICIPALITY",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Lovre\u0107",
+        "type": "MUNICIPALITY",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Makarska",
+        "type": "CITY_OR_TOWN",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Marina",
+        "type": "MUNICIPALITY",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Milna",
+        "type": "MUNICIPALITY",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Mu\u0107",
+        "type": "MUNICIPALITY",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Nere\u017ei\u0161\u0107a",
+        "type": "MUNICIPALITY",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Okrug",
+        "type": "MUNICIPALITY",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Omi\u0161",
+        "type": "CITY_OR_TOWN",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Otok",
+        "type": "MUNICIPALITY",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Podbablje",
+        "type": "MUNICIPALITY",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Podgora",
+        "type": "MUNICIPALITY",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Podstrana",
+        "type": "MUNICIPALITY",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Postira",
+        "type": "MUNICIPALITY",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Prgomet",
+        "type": "MUNICIPALITY",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Primorski Dolac",
+        "type": "MUNICIPALITY",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Prolo\u017eac",
+        "type": "MUNICIPALITY",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Pu\u010di\u0161\u0107a",
+        "type": "MUNICIPALITY",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Runovi\u0107i",
+        "type": "MUNICIPALITY",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Seget",
+        "type": "MUNICIPALITY",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Selca",
+        "type": "MUNICIPALITY",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Sinj",
+        "type": "CITY_OR_TOWN",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Solin",
+        "type": "CITY_OR_TOWN",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Split",
+        "type": "CITY_OR_TOWN",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Stari Grad",
+        "type": "CITY_OR_TOWN",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Su\u0107uraj",
+        "type": "MUNICIPALITY",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Supetar",
+        "type": "CITY_OR_TOWN",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Sutivan",
+        "type": "MUNICIPALITY",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "\u0160estanovac",
+        "type": "MUNICIPALITY",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "\u0160olta",
+        "type": "MUNICIPALITY",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Trilj",
+        "type": "CITY_OR_TOWN",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Trogir",
+        "type": "CITY_OR_TOWN",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Tu\u010depi",
+        "type": "MUNICIPALITY",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Vis",
+        "type": "CITY_OR_TOWN",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Vrgorac",
+        "type": "CITY_OR_TOWN",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Vrlika",
+        "type": "CITY_OR_TOWN",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Zadvarje",
+        "type": "MUNICIPALITY",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Zagvozd",
+        "type": "MUNICIPALITY",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Zmijavci",
+        "type": "MUNICIPALITY",
+        "county": "Splitsko-dalmatinska",
+        "countyId": 17
+    },
+    {
+        "name": "Bale-Valle",
+        "type": "MUNICIPALITY",
+        "county": "Istarska",
+        "countyId": 18
+    },
+    {
+        "name": "Barban",
+        "type": "MUNICIPALITY",
+        "county": "Istarska",
+        "countyId": 18
+    },
+    {
+        "name": "Brtonigla-Verteneglio",
+        "type": "MUNICIPALITY",
+        "county": "Istarska",
+        "countyId": 18
+    },
+    {
+        "name": "Buje-Buie",
+        "type": "CITY_OR_TOWN",
+        "county": "Istarska",
+        "countyId": 18
+    },
+    {
+        "name": "Buzet",
+        "type": "CITY_OR_TOWN",
+        "county": "Istarska",
+        "countyId": 18
+    },
+    {
+        "name": "Cerovlje",
+        "type": "MUNICIPALITY",
+        "county": "Istarska",
+        "countyId": 18
+    },
+    {
+        "name": "Fa\u017eana-Fasana",
+        "type": "MUNICIPALITY",
+        "county": "Istarska",
+        "countyId": 18
+    },
+    {
+        "name": "Funtana-Fontane",
+        "type": "MUNICIPALITY",
+        "county": "Istarska",
+        "countyId": 18
+    },
+    {
+        "name": "Gra\u010di\u0161\u0107e",
+        "type": "MUNICIPALITY",
+        "county": "Istarska",
+        "countyId": 18
+    },
+    {
+        "name": "Gro\u017enjan-Grisignana",
+        "type": "MUNICIPALITY",
+        "county": "Istarska",
+        "countyId": 18
+    },
+    {
+        "name": "Kanfanar",
+        "type": "MUNICIPALITY",
+        "county": "Istarska",
+        "countyId": 18
+    },
+    {
+        "name": "Karojba",
+        "type": "MUNICIPALITY",
+        "county": "Istarska",
+        "countyId": 18
+    },
+    {
+        "name": "Ka\u0161telir-Labinci-Castelliere-S. Domenica",
+        "type": "MUNICIPALITY",
+        "county": "Istarska",
+        "countyId": 18
+    },
+    {
+        "name": "Kr\u0161an",
+        "type": "MUNICIPALITY",
+        "county": "Istarska",
+        "countyId": 18
+    },
+    {
+        "name": "Labin",
+        "type": "CITY_OR_TOWN",
+        "county": "Istarska",
+        "countyId": 18
+    },
+    {
+        "name": "Lani\u0161\u0107e",
+        "type": "MUNICIPALITY",
+        "county": "Istarska",
+        "countyId": 18
+    },
+    {
+        "name": "Li\u017enjan-Lisignano",
+        "type": "MUNICIPALITY",
+        "county": "Istarska",
+        "countyId": 18
+    },
+    {
+        "name": "Lupoglav",
+        "type": "MUNICIPALITY",
+        "county": "Istarska",
+        "countyId": 18
+    },
+    {
+        "name": "Mar\u010dana",
+        "type": "MUNICIPALITY",
+        "county": "Istarska",
+        "countyId": 18
+    },
+    {
+        "name": "Medulin",
+        "type": "MUNICIPALITY",
+        "county": "Istarska",
+        "countyId": 18
+    },
+    {
+        "name": "Motovun-Montona",
+        "type": "MUNICIPALITY",
+        "county": "Istarska",
+        "countyId": 18
+    },
+    {
+        "name": "Novigrad-Cittanova",
+        "type": "CITY_OR_TOWN",
+        "county": "Istarska",
+        "countyId": 18
+    },
+    {
+        "name": "Oprtalj-Portole",
+        "type": "MUNICIPALITY",
+        "county": "Istarska",
+        "countyId": 18
+    },
+    {
+        "name": "Pazin",
+        "type": "CITY_OR_TOWN",
+        "county": "Istarska",
+        "countyId": 18
+    },
+    {
+        "name": "Pi\u0107an",
+        "type": "MUNICIPALITY",
+        "county": "Istarska",
+        "countyId": 18
+    },
+    {
+        "name": "Pore\u010d-Parenzo",
+        "type": "CITY_OR_TOWN",
+        "county": "Istarska",
+        "countyId": 18
+    },
+    {
+        "name": "Pula-Pola",
+        "type": "CITY_OR_TOWN",
+        "county": "Istarska",
+        "countyId": 18
+    },
+    {
+        "name": "Ra\u0161a",
+        "type": "MUNICIPALITY",
+        "county": "Istarska",
+        "countyId": 18
+    },
+    {
+        "name": "Rovinj-Rovigno",
+        "type": "CITY_OR_TOWN",
+        "county": "Istarska",
+        "countyId": 18
+    },
+    {
+        "name": "Sveta Nedelja",
+        "type": "MUNICIPALITY",
+        "county": "Istarska",
+        "countyId": 18
+    },
+    {
+        "name": "Sveti Lovre\u010d",
+        "type": "MUNICIPALITY",
+        "county": "Istarska",
+        "countyId": 18
+    },
+    {
+        "name": "Sveti Petar u \u0160umi",
+        "type": "MUNICIPALITY",
+        "county": "Istarska",
+        "countyId": 18
+    },
+    {
+        "name": "Svetvin\u010denat",
+        "type": "MUNICIPALITY",
+        "county": "Istarska",
+        "countyId": 18
+    },
+    {
+        "name": "Tar-Vabriga-Torre Abrega",
+        "type": "MUNICIPALITY",
+        "county": "Istarska",
+        "countyId": 18
+    },
+    {
+        "name": "Tinjan",
+        "type": "MUNICIPALITY",
+        "county": "Istarska",
+        "countyId": 18
+    },
+    {
+        "name": "Umag-Umago",
+        "type": "CITY_OR_TOWN",
+        "county": "Istarska",
+        "countyId": 18
+    },
+    {
+        "name": "Vi\u0161njan-Visignano",
+        "type": "MUNICIPALITY",
+        "county": "Istarska",
+        "countyId": 18
+    },
+    {
+        "name": "Vi\u017einada-Visinada",
+        "type": "MUNICIPALITY",
+        "county": "Istarska",
+        "countyId": 18
+    },
+    {
+        "name": "Vodnjan-Dignano",
+        "type": "CITY_OR_TOWN",
+        "county": "Istarska",
+        "countyId": 18
+    },
+    {
+        "name": "Vrsar-Orsera",
+        "type": "MUNICIPALITY",
+        "county": "Istarska",
+        "countyId": 18
+    },
+    {
+        "name": "\u017dminj",
+        "type": "MUNICIPALITY",
+        "county": "Istarska",
+        "countyId": 18
+    },
+    {
+        "name": "Belica",
+        "type": "MUNICIPALITY",
+        "county": "Me\u0111imurska",
+        "countyId": 20
+    },
+    {
+        "name": "\u010cakovec",
+        "type": "CITY_OR_TOWN",
+        "county": "Me\u0111imurska",
+        "countyId": 20
+    },
+    {
+        "name": "Dekanovec",
+        "type": "MUNICIPALITY",
+        "county": "Me\u0111imurska",
+        "countyId": 20
+    },
+    {
+        "name": "Doma\u0161inec",
+        "type": "MUNICIPALITY",
+        "county": "Me\u0111imurska",
+        "countyId": 20
+    },
+    {
+        "name": "Donja Dubrava",
+        "type": "MUNICIPALITY",
+        "county": "Me\u0111imurska",
+        "countyId": 20
+    },
+    {
+        "name": "Donji Kraljevec",
+        "type": "MUNICIPALITY",
+        "county": "Me\u0111imurska",
+        "countyId": 20
+    },
+    {
+        "name": "Donji Vidovec",
+        "type": "MUNICIPALITY",
+        "county": "Me\u0111imurska",
+        "countyId": 20
+    },
+    {
+        "name": "Gori\u010dan",
+        "type": "MUNICIPALITY",
+        "county": "Me\u0111imurska",
+        "countyId": 20
+    },
+    {
+        "name": "Gornji Mihaljevec",
+        "type": "MUNICIPALITY",
+        "county": "Me\u0111imurska",
+        "countyId": 20
+    },
+    {
+        "name": "Kotoriba",
+        "type": "MUNICIPALITY",
+        "county": "Me\u0111imurska",
+        "countyId": 20
+    },
+    {
+        "name": "Mala Subotica",
+        "type": "MUNICIPALITY",
+        "county": "Me\u0111imurska",
+        "countyId": 20
+    },
+    {
+        "name": "Mursko Sredi\u0161\u0107e",
+        "type": "CITY_OR_TOWN",
+        "county": "Me\u0111imurska",
+        "countyId": 20
+    },
+    {
+        "name": "Nedeli\u0161\u0107e",
+        "type": "MUNICIPALITY",
+        "county": "Me\u0111imurska",
+        "countyId": 20
+    },
+    {
+        "name": "Orehovica",
+        "type": "MUNICIPALITY",
+        "county": "Me\u0111imurska",
+        "countyId": 20
+    },
+    {
+        "name": "Podturen",
+        "type": "MUNICIPALITY",
+        "county": "Me\u0111imurska",
+        "countyId": 20
+    },
+    {
+        "name": "Prelog",
+        "type": "CITY_OR_TOWN",
+        "county": "Me\u0111imurska",
+        "countyId": 20
+    },
+    {
+        "name": "Pribislavec",
+        "type": "MUNICIPALITY",
+        "county": "Me\u0111imurska",
+        "countyId": 20
+    },
+    {
+        "name": "Selnica",
+        "type": "MUNICIPALITY",
+        "county": "Me\u0111imurska",
+        "countyId": 20
+    },
+    {
+        "name": "Strahoninec",
+        "type": "MUNICIPALITY",
+        "county": "Me\u0111imurska",
+        "countyId": 20
+    },
+    {
+        "name": "Sveta Marija",
+        "type": "MUNICIPALITY",
+        "county": "Me\u0111imurska",
+        "countyId": 20
+    },
+    {
+        "name": "Sveti Juraj na Bregu",
+        "type": "MUNICIPALITY",
+        "county": "Me\u0111imurska",
+        "countyId": 20
+    },
+    {
+        "name": "Sveti Martin na Muri",
+        "type": "MUNICIPALITY",
+        "county": "Me\u0111imurska",
+        "countyId": 20
+    },
+    {
+        "name": "\u0160enkovec",
+        "type": "MUNICIPALITY",
+        "county": "Me\u0111imurska",
+        "countyId": 20
+    },
+    {
+        "name": "\u0160trigova",
+        "type": "MUNICIPALITY",
+        "county": "Me\u0111imurska",
+        "countyId": 20
+    },
+    {
+        "name": "Vrati\u0161inec",
+        "type": "MUNICIPALITY",
+        "county": "Me\u0111imurska",
+        "countyId": 20
+    },
+    {
+        "name": "Zagreb",
+        "type": "CITY_OR_TOWN",
+        "county": "Grad Zagreb",
+        "countyId": 21
+    }
+]

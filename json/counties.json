@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "name": "Zagreba\u010dka",
+        "number": "I"
+    },
+    {
+        "id": 2,
+        "name": "Krapinsko-zagorska",
+        "number": "II"
+    },
+    {
+        "id": 3,
+        "name": "Sisa\u010dko-moslava\u010dka",
+        "number": "III"
+    },
+    {
+        "id": 4,
+        "name": "Karlova\u010dka",
+        "number": "IV"
+    },
+    {
+        "id": 9,
+        "name": "Li\u010dko-senjska",
+        "number": "IX"
+    },
+    {
+        "id": 5,
+        "name": "Vara\u017edinska",
+        "number": "V"
+    },
+    {
+        "id": 6,
+        "name": "Koprivni\u010dko-kri\u017eeva\u010dka",
+        "number": "VI"
+    },
+    {
+        "id": 7,
+        "name": "Bjelovarsko-bilogorska",
+        "number": "VII"
+    },
+    {
+        "id": 8,
+        "name": "Primorsko-goranska",
+        "number": "VIII"
+    },
+    {
+        "id": 10,
+        "name": "Viroviti\u010dko-podravska",
+        "number": "X"
+    },
+    {
+        "id": 11,
+        "name": "Po\u017ee\u0161ko-slavonska",
+        "number": "XI"
+    },
+    {
+        "id": 12,
+        "name": "Brodsko-posavska",
+        "number": "XII"
+    },
+    {
+        "id": 13,
+        "name": "Zadarska",
+        "number": "XIII"
+    },
+    {
+        "id": 14,
+        "name": "Osje\u010dko-baranjska",
+        "number": "XIV"
+    },
+    {
+        "id": 19,
+        "name": "Dubrova\u010dko-neretvanska",
+        "number": "XIX"
+    },
+    {
+        "id": 15,
+        "name": "\u0160ibensko-kninska",
+        "number": "XV"
+    },
+    {
+        "id": 16,
+        "name": "Vukovarsko-srijemska",
+        "number": "XVI"
+    },
+    {
+        "id": 17,
+        "name": "Splitsko-dalmatinska",
+        "number": "XVII"
+    },
+    {
+        "id": 18,
+        "name": "Istarska",
+        "number": "XVIII"
+    },
+    {
+        "id": 20,
+        "name": "Me\u0111imurska",
+        "number": "XX"
+    },
+    {
+        "id": 21,
+        "name": "Grad Zagreb",
+        "number": "XXI"
+    }
+]
